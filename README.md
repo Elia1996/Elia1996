@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Elia1996
+- 🐍 Sorry, I'm a Pythonista to the core since 7 years.
 - 👀 I’m interested in Electronic world (both Analog and Digital), in Programming (Python, c, c++, Bash) , in all kind of automatization  
 - 🌱 I’m currently learning fast Typing, Mind Map, fault tolerant system
-- 💞️ I’m looking to collaborate on automatization tools, and on Travulog project
+- 🧠 I love mnemotechnics and mind map.
 - 📫 How to reach me: ribaldoneelia@gmail.com
 
 <!---
